@@ -1,11 +1,9 @@
 # cities_index
 Lumen (8.2.3)
 api для сайта индекс-городов.рф
-
-
+<div>
 		<h4>Получить весь список городов</h4>
 		<p><br>GET</br>http://audiowave33.ru/api/city</p>
-
 	</div>
 	<div>
 		<h4>Найти город по id</h4>
